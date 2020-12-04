@@ -1,5 +1,5 @@
 # Churn-Rate-Analysis
-ML Churn Rate Analysis for the BSDS Hackathon
+ML Churn Rate Analysis for the BSDS Hackathon, developed with @Edo1510 and @EliaTorre
 
 Churn analysis studies the churn rate of a company, where the churn rate represents the portion of customers that leave that specific company.
 it’s fairly easy to understand why firms need and strive to have relevant information about why, how and when a customer leaves the company, the most immediate one being trying to retain that customer and prevent that to happen in the future with another customer.
