@@ -20,9 +20,8 @@ Bank transfer (automatic), Credit card (automatic)
 8) “MonthlyCharges”, The amount charged to the customer monthly
 9) “TotalCharges”, The total amount charged to the customer
 10) “Churn”,Whether the customer churned or not (Yes or No). This represents the label
-that your model should try to predict, so you’ll find yourself facing with a supervised
-machine learning problem (supervised means that you know what you’re trying to
-predict, i.e. the “Churn” label).
+that the model should try to predict, so we found ourselves facing with a supervised
+machine learning problem.
 
 We decided to tackle the problem by deploying a machine learning algorithm in order to train a model on the set trying to predict as precisely as possible if the customer will or won’t leave the company in the next future.
 
