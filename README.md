@@ -27,5 +27,5 @@ We decided to tackle the problem by deploying a machine learning algorithm in or
 
 The “training set” that we have been given has all the 10 columns described above, while the “test set” that the keys-keeper greedly enshrined in his computer, missed the label column, the one called “Churn”, and on this dataset our ML model have been tested.
 
-For our work, which predicted the church rate with a precision of 80.15% we have been enlisted among the winners of the competition.
+For our work, which predicted the churn rate with a precision of 80.15% we have been enlisted among the winners of the competition.
 The analysis, with the necessary comments and explanations, can be found in the "Churn_Rate_Analysis.ipynb" file.
