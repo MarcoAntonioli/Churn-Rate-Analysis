@@ -5,7 +5,7 @@ Churn analysis studies the churn rate of a company, where the churn rate represe
 it’s fairly easy to understand why firms need and strive to have relevant information about why, how and when a customer leaves the company, the most immediate one being trying to retain that customer and prevent that to happen in the future with another customer.
 One branch in which the churn analysis is particulary exploited is the Telecommunications, as in the studied case.
 
-For this Hackathon we were presented with a dataset of customers and we were asked to predict whether a customer were going to change company or not.
+For this Hackathon we were presented with a dataset of customers and we were asked to predict whether a customer was going to change company or not.
 Let’s try to dive into this dataset and let me explain the meaning of the following columns.
 
 1) “gender”, Whether the customer is a male or a female
